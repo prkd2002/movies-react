@@ -36,9 +36,12 @@ Eine moderne Webanwendung zum Durchsuchen, Speichern und Verwalten von Filmen. E
 ```bash
 git clone  https://github.com/prkd2002/movies-react.git
 cd movies-app
+```
 
-# 📥 Abhängigkeiten installieren
+# Abhängigkeiten installieren
+```bash
 npm install
+```
 
 # ⚙️ Appwrite Konfiguration
 1. Stelle sicher, dass dein Appwrite-Projekt läuft (lokal oder in der Cloud).
@@ -55,19 +58,20 @@ npm install
 
 
 3. Erstelle eine .env-Datei mit deinen Appwrite-Daten:
+```bash
 VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
 VITE_APPWRITE_PROJECT_ID=dein_project_id
 VITE_APPWRITE_DATABASE_ID=deine_datenbank_id
 VITE_APPWRITE_COLLECTION_ID=deine_collection_id
 VITE_APPWRITE_BUCKET_ID=optional_für_poster_uploads
-
+```
 
 # 🧪 Starten der App in Entwicklungsmodus
+```bash
 npm run dev
+```
 Die App ist nun erreichbar unter: http://localhost:5173
 
-
-# 📁 Projektstruktur
 
 # 📧 Kontakt
 Bei Fragen oder Feedback kannst du mich gerne kontaktieren:

@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/539a2f5a-fbfc-4c62-ad84-88a7a3f22f92)
+
 # 🎬 Movies App
 
 Eine moderne Webanwendung zum Durchsuchen, Speichern und Verwalten von Filmen. Entwickelt mit **React**, gestylt mit **TailwindCSS** und unterstützt durch **Appwrite** als Backend-as-a-Service für Authentifizierung und Datenverwaltung.
